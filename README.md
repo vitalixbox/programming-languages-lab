@@ -7,6 +7,7 @@ A collection of code written while studying *Programming Rust*.
 - `programming-rust/exercises` contains small, chapter-focused examples.
 - `programming-rust/projects` contains complete programs from the book.
 - `programming-rust/hello` is the introductory Cargo project.
+- `shad-rust` contains exercises from the SHAD Rust course.
 - `practice` contains independent, application-idiom exercises guided by the
   project-local `rust-practice-coach` skill.
 
