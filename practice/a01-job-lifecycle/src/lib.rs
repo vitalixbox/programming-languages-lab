@@ -1,3 +1,5 @@
+pub mod lib_java;
+
 #[derive(Debug, PartialEq, Eq)]
 pub enum JobState {
     Queued {
