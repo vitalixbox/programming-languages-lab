@@ -14,8 +14,8 @@ Keep this file brief and evidence-based. Update it after meaningful milestones; 
 - **Exercise:** A02 — Reduce a mixed event stream
 - **Path:** `practice/a02-event-stream/`
 - **Started:** 2026-08-22
-- **Current step:** Step-by-step tutorial prepared; learner design pending
-- **Next action belongs to:** Learner — complete tutorial checkpoint 0
+- **Current step:** Public API and acceptance tests prepared; reducer implementation pending
+- **Next action belongs to:** Learner — implement `reduce_events`
 
 ## Completed exercises
 
